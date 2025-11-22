@@ -137,14 +137,6 @@ li {
     margin-bottom: 0.5rem;
 }
 
-footer {
-    text-align: center;
-    padding: 1.5rem;
-    background: #2c3e50;
-    color: white;
-    margin-top: 2rem;
-}
-
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
